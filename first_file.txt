@@ -1,1 +1,8 @@
-This is my first file
+This is the first file
+
+
+this file comes before the other, 
+
+and git is tracking this
+
+Ray
